@@ -1,0 +1,322 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "087f524d-c900-4f6d-85fe-54b011a2b9de",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": "docs/DreamcastRPTAdapter-schematic.pdf"
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "16c0af70-26b5-44bd-a0f5-57c4b09e535c": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "frame": "c4ca0500-85c4-4744-a625-e9ecbb900a88",
+            "index": 1,
+            "junctions": {
+                "1a65862a-f97f-4049-91ea-a2269afa755a": {
+                    "position": [
+                        40000000,
+                        160000000
+                    ]
+                },
+                "38034bdb-b4b2-42ab-879e-45a10c47dde5": {
+                    "position": [
+                        40000000,
+                        165000000
+                    ]
+                },
+                "39273f42-0bf7-40e6-9b73-529975d59de9": {
+                    "position": [
+                        40000000,
+                        175000000
+                    ]
+                },
+                "3e5462cc-4bfd-4fbc-89a7-40d56ad2c568": {
+                    "position": [
+                        72500000,
+                        167500000
+                    ]
+                },
+                "7a49c09f-b46f-46d8-a30d-9cd210c2e26a": {
+                    "position": [
+                        72500000,
+                        165000000
+                    ]
+                },
+                "ed4c823d-beac-404f-bb95-2fba2742c2a9": {
+                    "position": [
+                        40000000,
+                        170000000
+                    ]
+                }
+            },
+            "lines": {},
+            "name": "Power Adapter",
+            "net_labels": {},
+            "net_lines": {
+                "182e175e-7786-4960-9a1d-b19d6a2f1222": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "64331d9e-4997-41ee-83ca-2885d7e0bd43/ef731e9d-2463-4a6a-8586-9007f37a8135",
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "38034bdb-b4b2-42ab-879e-45a10c47dde5",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "265f7c93-d94c-43af-a574-e3871fba75c7": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "38034bdb-b4b2-42ab-879e-45a10c47dde5",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "1a65862a-f97f-4049-91ea-a2269afa755a",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "26f8c2f2-20b4-41fa-a5df-3b4983589c3d": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "38034bdb-b4b2-42ab-879e-45a10c47dde5",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "7a49c09f-b46f-46d8-a30d-9cd210c2e26a",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "4ed1bdec-86ad-4076-b359-6af0a288764b": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "c8f21cf0-6f22-4c5f-b15c-137a2f3e85fa/1a542ef8-6259-4b4e-a4a9-3a8af6039ed0",
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "61e8d2fa-e3f0-4621-b0f3-a4257403d292/588536f1-9e96-4500-bcbb-4ba48082b643",
+                        "port": null
+                    }
+                },
+                "582a2c10-c373-462b-bb3d-236d9a6ad8a0": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "61e8d2fa-e3f0-4621-b0f3-a4257403d292/b3cef4f5-fe6c-45b5-b063-1618f997168f",
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "1b7df18a-0bad-48a4-b807-0ece1273791e/588536f1-9e96-4500-bcbb-4ba48082b643",
+                        "port": null
+                    }
+                },
+                "60fd47d2-6bae-4126-898c-461823fc6253": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "3e5462cc-4bfd-4fbc-89a7-40d56ad2c568",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "1b7df18a-0bad-48a4-b807-0ece1273791e/b3cef4f5-fe6c-45b5-b063-1618f997168f",
+                        "port": null
+                    }
+                },
+                "76933651-44b5-410f-8986-a43ceea20afa": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "ed4c823d-beac-404f-bb95-2fba2742c2a9",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "c8f21cf0-6f22-4c5f-b15c-137a2f3e85fa/df0900ed-f3c8-4296-a321-aa5c2257ce74",
+                        "port": null
+                    }
+                },
+                "7ee491f7-31e4-4a3c-bb26-b02a022deeb8": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "39273f42-0bf7-40e6-9b73-529975d59de9",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "ed4c823d-beac-404f-bb95-2fba2742c2a9",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "9b9c9598-4838-4874-803f-938e68b69223": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "7a49c09f-b46f-46d8-a30d-9cd210c2e26a",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "3e5462cc-4bfd-4fbc-89a7-40d56ad2c568",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "9fed2d2d-bdf3-4d3a-b6da-8db8e5ebd667": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "64331d9e-4997-41ee-83ca-2885d7e0bd43/28603370-c004-40c2-9d2b-86580e4a4bc6",
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "ed4c823d-beac-404f-bb95-2fba2742c2a9",
+                        "pin": null,
+                        "port": null
+                    }
+                }
+            },
+            "power_symbols": {
+                "086f3346-4bb1-41ac-98bb-6bd91925751a": {
+                    "junction": "39273f42-0bf7-40e6-9b73-529975d59de9",
+                    "mirror": false,
+                    "net": "632c8e75-1b41-43c6-8eaa-61d5b8c8a8d9",
+                    "orientation": "up"
+                },
+                "43541b24-4ef8-4b2d-84cd-1b4837afb4e8": {
+                    "junction": "1a65862a-f97f-4049-91ea-a2269afa755a",
+                    "mirror": false,
+                    "net": "55397970-01b7-4b03-ae08-b0bd2dfbb199",
+                    "orientation": "down"
+                }
+            },
+            "symbols": {
+                "1b7df18a-0bad-48a4-b807-0ece1273791e": {
+                    "component": "fcfb5d15-4c76-4f7a-a9de-5c3cdb9a90d5",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 32768,
+                        "mirror": false,
+                        "shift": [
+                            96250000,
+                            168750000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "5b7a580f-fa81-4cde-84c2-9da30ebc9c5a",
+                    "texts": []
+                },
+                "61e8d2fa-e3f0-4621-b0f3-a4257403d292": {
+                    "component": "42d97a68-77d3-44d3-bb8f-09243a6d4359",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 49152,
+                        "mirror": false,
+                        "shift": [
+                            72500000,
+                            176250000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "5b7a580f-fa81-4cde-84c2-9da30ebc9c5a",
+                    "texts": []
+                },
+                "64331d9e-4997-41ee-83ca-2885d7e0bd43": {
+                    "component": "9d3c3aaf-b7ad-4711-8146-28282381e46f",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "1c9c211c-08e3-427f-b725-ab972fb758f0",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            21250000,
+                            167500000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "f54999d2-2195-4d5d-95c1-b7aef41a13d9",
+                    "texts": []
+                },
+                "c8f21cf0-6f22-4c5f-b15c-137a2f3e85fa": {
+                    "component": "27b768e1-987d-4ced-95eb-e833f7e5a2f6",
+                    "custom_value": "2A 250V",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            51250000,
+                            170000000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "66656d86-4722-4dd8-be89-b7a28d7d6eb6",
+                    "texts": []
+                }
+            },
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "Terin Stock",
+        "date": "2024-03-06",
+        "license": "CERN-OHL-W v2",
+        "project_name": "DreamcastRPTAdapter",
+        "project_title": "Dreamcast RPT Adapter",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "195a718c-0f9f-49ee-adae-c496d975bde6",
+    "version": 8
+}

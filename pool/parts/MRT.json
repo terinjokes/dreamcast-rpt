@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "MRT 2"
+    ],
+    "datasheet": [
+        false,
+        "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-mrt-series.pdf"
+    ],
+    "description": [
+        false,
+        "board mount fuse"
+    ],
+    "entity": "9c8a3c80-4380-4a27-812d-0091453858c8",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bel Fuse"
+    ],
+    "model": "294479c4-529a-48cb-aaaf-26649fe543ec",
+    "orderable_MPNs": {
+        "172141df-d1ff-4c76-ac81-07735669a9f2": "MRT 2-AMMO",
+        "4b56e468-6be1-4117-acba-c5480e180518": "MRT 2-BULK"
+    },
+    "package": "c7bafb52-8c99-4338-a4ab-632a542978bf",
+    "pad_map": {
+        "1b41304b-82f5-481b-bcb9-4597f194e002": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "df0900ed-f3c8-4296-a321-aa5c2257ce74"
+        },
+        "425cc007-a3f0-491a-9d24-23f4fa93baec": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "1a542ef8-6259-4b4e-a4a9-3a8af6039ed0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fuse",
+        "th"
+    ],
+    "type": "part",
+    "uuid": "33347bbc-a84f-494e-8451-3d1b81087c6c",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "C-1123724-2"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Vertical Connection Header"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "07f36eb4-b98e-42fd-9705-c8c49520abd5": "3-1123724-2",
+        "2bd44eba-d74e-4334-ac36-d191a5981792": "1-1123724-2",
+        "3350cc1c-6bb7-4097-a5f8-21e10916d9aa": "5-1123724-2",
+        "4adab375-894f-414c-a387-5c7532c8cfc2": "2-1123724-2",
+        "68e6b956-25a4-4d0b-8e8e-a14dcab314ec": "6-1123724-2",
+        "692bfd53-4589-4138-83ba-29fb3fbe647f": "4-1123724-2"
+    },
+    "package": "7b118848-b576-4819-8a76-06da945b1899",
+    "pad_map": {
+        "4a101e5e-71cb-49c9-9760-d0d2fca80631": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "80da997a-3e6e-4699-933a-8ddd41bc5b36": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "th"
+    ],
+    "type": "part",
+    "uuid": "0411f77e-2336-46a4-b532-f340bfbbeef6",
+    "value": [
+        false,
+        ""
+    ]
+}

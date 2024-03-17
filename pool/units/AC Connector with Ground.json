@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "AC Connector with Ground",
+    "pins": {
+        "28603370-c004-40c2-9d2b-86580e4a4bc6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "L",
+            "swap_group": 0
+        },
+        "c6a5a139-15a8-4340-a548-eae5f69f9558": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Mount",
+            "swap_group": 0
+        },
+        "ef731e9d-2463-4a6a-8586-9007f37a8135": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "N",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "15eaed6c-fec6-42f0-9a26-e0db08eee9fa"
+}

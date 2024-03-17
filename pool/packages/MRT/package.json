@@ -1,0 +1,356 @@
+{
+    "arcs": {
+        "2c9ccb6a-fbfd-4a6c-96de-b6ba8ba53c80": {
+            "center": "68a59993-0c72-49d2-b0d1-9ee762a68d9c",
+            "from": "0952d21f-7f2f-42d3-8006-eb23d2c96c8d",
+            "layer": 40,
+            "to": "129d3b4c-5a60-49fd-a37a-06b697862e36",
+            "width": 0
+        },
+        "2f30ab4b-ed08-45db-965a-3295bbb9137f": {
+            "center": "5a6adbea-e01f-4721-8d36-c4063ce70a4e",
+            "from": "129d3b4c-5a60-49fd-a37a-06b697862e36",
+            "layer": 40,
+            "to": "0952d21f-7f2f-42d3-8006-eb23d2c96c8d",
+            "width": 0
+        },
+        "abf6c954-8e5d-4464-aed0-4cb651601636": {
+            "center": "4aea85bf-ba04-4e57-a0ba-08692850e288",
+            "from": "87314c6a-a8c7-48d6-99d4-7c494f6ed2bf",
+            "layer": 20,
+            "to": "e36a2362-069b-4738-bb9b-0e2643388bff",
+            "width": 152400
+        },
+        "f6dc0b6d-e7d7-405b-81e9-85658908a5fb": {
+            "center": "46e8624a-9617-4d09-b070-7ed7c5b09ee2",
+            "from": "e36a2362-069b-4738-bb9b-0e2643388bff",
+            "layer": 20,
+            "to": "87314c6a-a8c7-48d6-99d4-7c494f6ed2bf",
+            "width": 152400
+        }
+    },
+    "default_model": "294479c4-529a-48cb-aaaf-26649fe543ec",
+    "dimensions": {
+        "4fe4b23e-a7f3-4eb9-bb5c-3540ec95c313": {
+            "label_distance": 7000000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                0,
+                0
+            ],
+            "p1": [
+                5080000,
+                0
+            ]
+        },
+        "8e1d886a-c506-4ab0-a0d9-77c614b525f0": {
+            "label_distance": -13900000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                -1700000,
+                -100000
+            ],
+            "p1": [
+                6700000,
+                -100000
+            ]
+        }
+    },
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "07835fd3-aa3c-472c-a4db-ff17cecfc2bb": {
+            "position": [
+                -3500000,
+                -1000000
+            ]
+        },
+        "0952d21f-7f2f-42d3-8006-eb23d2c96c8d": {
+            "position": [
+                1400000,
+                -4550000
+            ]
+        },
+        "129d3b4c-5a60-49fd-a37a-06b697862e36": {
+            "position": [
+                3600000,
+                4200000
+            ]
+        },
+        "3a3d2b83-97fd-4355-b74c-9b7904d0333d": {
+            "position": [
+                -2500000,
+                0
+            ]
+        },
+        "46e8624a-9617-4d09-b070-7ed7c5b09ee2": {
+            "position": [
+                2500000,
+                -175000
+            ]
+        },
+        "4aea85bf-ba04-4e57-a0ba-08692850e288": {
+            "position": [
+                2500000,
+                -175000
+            ]
+        },
+        "5a6adbea-e01f-4721-8d36-c4063ce70a4e": {
+            "position": [
+                2500000,
+                -175000
+            ]
+        },
+        "68a59993-0c72-49d2-b0d1-9ee762a68d9c": {
+            "position": [
+                2500000,
+                -175000
+            ]
+        },
+        "7ec69738-4a10-4b2f-a242-1c0c3b181dc6": {
+            "position": [
+                -4500000,
+                0
+            ]
+        },
+        "87314c6a-a8c7-48d6-99d4-7c494f6ed2bf": {
+            "position": [
+                2500000,
+                -4350000
+            ]
+        },
+        "afb5de7c-fe33-4ab9-9f8d-31e9fe8c01d2": {
+            "position": [
+                -3500000,
+                1000000
+            ]
+        },
+        "e36a2362-069b-4738-bb9b-0e2643388bff": {
+            "position": [
+                2500000,
+                4000000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "e89ce4ef-a5ec-450d-9d43-5948fc0d8b82": {
+            "from": "7ec69738-4a10-4b2f-a242-1c0c3b181dc6",
+            "layer": 20,
+            "to": "3a3d2b83-97fd-4355-b74c-9b7904d0333d",
+            "width": 150000
+        },
+        "fe81ed8f-46f4-45a7-90fa-b2cf3c501adc": {
+            "from": "afb5de7c-fe33-4ab9-9f8d-31e9fe8c01d2",
+            "layer": 20,
+            "to": "07835fd3-aa3c-472c-a4db-ff17cecfc2bb",
+            "width": 150000
+        }
+    },
+    "manufacturer": "Bel Fuse",
+    "models": {
+        "294479c4-529a-48cb-aaaf-26649fe543ec": {
+            "filename": "3d_models/MRT_BEL.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 2400000,
+            "y": 0,
+            "yaw": 0,
+            "z": 700000
+        }
+    },
+    "name": "MRT",
+    "pads": {
+        "1b41304b-82f5-481b-bcb9-4597f194e002": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 965200,
+                "pad_diameter": 1473200
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "425cc007-a3f0-491a-9d24-23f4fa93baec": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 965200,
+                "pad_diameter": 1473200
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    5080000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "8.350mm 8.525mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 2.500mm -0.087mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
+    "polygons": {
+        "7edac7b2-2475-4af0-bd61-9ace8886904a": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1925000,
+                        -4599500
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1925000,
+                        4425500
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6925000,
+                        4425500
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6925000,
+                        -4599500
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "d391b1ce-0b8a-4ee4-8fb4-98c6080e5581": {
+            "layer": 50,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        2500000,
+                        -175000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2500000,
+                        4000000
+                    ],
+                    "type": "arc"
+                },
+                {
+                    "arc_center": [
+                        2500000,
+                        -175000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        2500000,
+                        -4350000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "th"
+    ],
+    "texts": {
+        "936b6ddb-db7b-41b9-acf6-3147c9f101fb": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    7300000,
+                    -400000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "f4dad574-942a-4bf8-a156-8565c6258c13": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1000000,
+                    2000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
+    "type": "package",
+    "uuid": "c7bafb52-8c99-4338-a4ab-632a542978bf"
+}

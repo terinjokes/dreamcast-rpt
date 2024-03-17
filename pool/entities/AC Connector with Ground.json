@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "1c9c211c-08e3-427f-b725-ab972fb758f0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "15eaed6c-fec6-42f0-9a26-e0db08eee9fa"
+        }
+    },
+    "manufacturer": "",
+    "name": "AC Connector with Ground",
+    "prefix": "C",
+    "tags": [
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "cae97f8f-c885-4903-8b76-0a73120acdcd"
+}

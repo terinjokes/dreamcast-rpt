@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "AC-M15PB79"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "C8 Polarized"
+    ],
+    "entity": "cae97f8f-c885-4903-8b76-0a73120acdcd",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "EDK"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "00271d30-4550-4ed7-86d4-6b5da4d09a7c": "AC-M15PB79"
+    },
+    "package": "0ad62a84-b47d-488c-b63c-e10e7763dbd9",
+    "pad_map": {
+        "68a12fe4-006d-4c55-a49e-b140e2c5f640": {
+            "gate": "1c9c211c-08e3-427f-b725-ab972fb758f0",
+            "pin": "c6a5a139-15a8-4340-a548-eae5f69f9558"
+        },
+        "8991d514-8793-4253-b35a-44a479ccd981": {
+            "gate": "1c9c211c-08e3-427f-b725-ab972fb758f0",
+            "pin": "c6a5a139-15a8-4340-a548-eae5f69f9558"
+        },
+        "d135aaef-519f-4721-91d4-3c9169265194": {
+            "gate": "1c9c211c-08e3-427f-b725-ab972fb758f0",
+            "pin": "28603370-c004-40c2-9d2b-86580e4a4bc6"
+        },
+        "e6b6f895-5c0b-44a9-9acd-979a12ce2741": {
+            "gate": "1c9c211c-08e3-427f-b725-ab972fb758f0",
+            "pin": "ef731e9d-2463-4a6a-8586-9007f37a8135"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ac"
+    ],
+    "type": "part",
+    "uuid": "a729ae7f-bdbd-4b70-84ac-7954ac592cc1",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+#+title: Dreamcast RPT
+
+The Dreamcast RPT is an adapter board to aid in using the [[https://www.digikey.nl/en/products/detail/mean-well-usa-inc/RPT-6003/7706125][Mean Well RPT-6003]] as a universal power
+supply for the Dreamcast, while preserving GD-ROM support.
+
+#+CAPTION: The Dreamcast RPT board
+[[./docs/dc-rpt.png]]
+
+* Bill of Materials
+** Dreamcast RPT
+| Component | Manufacturer | MPN         | Notes                   |
+|-----------+--------------+-------------+-------------------------|
+| C1        | EDK          | AC-M15PB79  | Desolder from stock PSU |
+| F1        | Bel          | MRT 2-AMMO  | Desolder from stock PSU |
+| J1        | TE AMP       | 1-1123724-2 | Desolder from stock PSU |
+| J2        | TE AMP       | 1-1123724-2 |                         |
+
+** Jumper Cables
+| Manufacturer |                     MPN | Quantity | Notes                |
+|--------------+-------------------------+----------+----------------------|
+| TE AMP       |             1-1123722-3 |        1 |                      |
+| TE AMP       |             1-1123722-3 |        2 |                      |
+| TE AMP       |               1318912-1 |        4 |                      |
+| Molex        |               1318912-1 |        2 | cut tabs             |
+| Molex        |              0008701031 |        8 |                      |
+| CNC Tech     | 1672-22-1-0500-001-1-TS |        1 | UL Style 1672 hookup |
+
+** Power Supply
+| Manufacturer | MPN      | Quantity |
+|--------------+----------+----------|
+| Mean Well    | RPT-6003 |        1 |
