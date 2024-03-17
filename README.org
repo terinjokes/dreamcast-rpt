@@ -6,6 +6,15 @@ supply for the Dreamcast, while preserving GD-ROM support.
 #+CAPTION: The Dreamcast RPT board
 [[./docs/dc-rpt.png]]
 
+* Features
+- PCB was designed in [[https://horizon-eda.org/][Horizon EDA]], a free EDA application.
+- Mean Well RPT-6003 provides all voltages needed for Dreamcast, GD-ROM, and accessories.
+  - Compatibile with 120V and 240V AC input.
+  - Runs cooler than the original, too.
+  - No external brick needed!
+- Reuses many components from original power supply.
+  - Drop-in alternatives for all components easily sourced (except the AC connector).
+
 * Bill of Materials
 ** Dreamcast RPT
 | Component | Manufacturer | MPN         | Notes                   |
@@ -29,3 +38,7 @@ supply for the Dreamcast, while preserving GD-ROM support.
 | Manufacturer | MPN      | Quantity |
 |--------------+----------+----------|
 | Mean Well    | RPT-6003 |        1 |
+
+* License
+This project is licensed under the CERN-OHL-W v2 license. The cached Horizon pool contents, as
+well as 3D models, may be licensed under other terms.
