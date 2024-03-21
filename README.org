@@ -40,5 +40,7 @@ supply for the Dreamcast, while preserving GD-ROM support.
 | Mean Well    | RPT-6003 |        1 |
 
 * License
-This project is licensed under the CERN-OHL-W v2 license. The cached Horizon pool contents, as
-well as 3D models, may be licensed under other terms.
+This project is licensed under the CERN-OHL-W v2 license. Imported assets, such as the Horizon
+pool contents, 3D models, and logos, may be licensed under other terms.
+
+#+HTML: <a href="https://certification.oshwa.org/nl000018.html"><img src="docs/oshw.svg" alt="NL000018" />
